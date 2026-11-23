@@ -29,6 +29,13 @@
       "skillPath": "plugins/frontend-mobile-development/skills/nextjs-app-router-patterns/SKILL.md",
       "computedHash": "39b84480d3a62355fd1199173dc70b97efe1daf6dbfae560cc7b85e127934a98"
     },
+    "phosphor-icons": {
+      "source": "lasaths/phosphor-icons",
+      "commit": "649b60ae27ebec009ade7ab087401a11311b27f9",
+      "sourceType": "github",
+      "skillPath": "skills/phosphor-icons/SKILL.md",
+      "computedHash": "7dc4754e709809763f080aac8f35602bf2dd1e5c2afba38250a2285f79ab7704"
+    },
     "shadcn": {
       "source": "shadcn-ui/ui",
       "commit": "055aa6b7837b1808456a24beb4c97a677864aa82",
